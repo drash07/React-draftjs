@@ -1,0 +1,11 @@
+.save-button {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.editor-container {
+    width: 100%;
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    height: 500px;
+  }
